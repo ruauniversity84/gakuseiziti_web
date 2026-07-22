@@ -169,15 +169,7 @@ section{
 
 @media (min-width: 900px) {
     .hero h1 {
-        font-size: 2.7rem;
-    }
-
-    .hero p {
-        font-size: 1.08rem;
-    }
-
-    .hero button {
-        font-size: 0.9rem;
+        font-size: 30px;
     }
 }
 
