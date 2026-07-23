@@ -171,6 +171,10 @@ section{
     .hero h1 {
         font-size: 30px;
     }
+    
+    .card_right p {
+        font-size: 15px;
+    }
 }
 
 .card {
